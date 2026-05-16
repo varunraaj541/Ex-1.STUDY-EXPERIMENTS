@@ -153,4 +153,4 @@ These adapters consist of a short section of waveguide with a probe transition c
 <img width="253" height="248" alt="image" src="https://github.com/user-attachments/assets/8a77012e-7c9a-4239-aebe-e1e0adbc58c2" />
 
 ## Conclusions:
-Thus,the experiment is studied and verified
+Thus,the experiment is studied and verified.
